@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="data driven basics">
+	<listeners>
+		<listener class-name="org.uncommons.reportng.HTMLReporter" />
+		<listener
+			class-name="org.uncommons.reportng.JUnitXMLReporter" />
+		<listener class-name="com.w2a.Listeners.CustomListeners" />
+	</listeners>
+
+
+
+	<test thread-count="5" name="Test">
+		<classes>
+			<class name="com.w2a.testcases.loginTest" />
+
+			<class name="com.w2a.testcases.AddCustomer" />
+			
+			<class name="com.w2a.testcases.openAccount" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

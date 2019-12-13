@@ -1,0 +1,3 @@
+INFO    2019-06-30 10:45:10,879 [main] com.w2a.base.TestBase  - config file loaded!!
+INFO    2019-06-30 10:45:10,880 [main] com.w2a.base.TestBase  - OR file loaded!!
+INFO    2019-06-30 10:45:23,486 [main] com.w2a.base.TestBase  - firefox launched 

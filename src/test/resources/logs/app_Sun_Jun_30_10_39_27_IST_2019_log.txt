@@ -1,0 +1,2 @@
+INFO    2019-06-30 10:39:27,081 [main] com.w2a.base.TestBase  - config file loaded!!
+INFO    2019-06-30 10:39:27,081 [main] com.w2a.base.TestBase  - OR file loaded!!

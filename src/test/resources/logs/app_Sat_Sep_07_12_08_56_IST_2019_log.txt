@@ -1,0 +1,4 @@
+INFO    2019-09-07 12:08:56,222 [main] com.w2a.base.TestBase  - OR file loaded!!
+INFO    2019-09-07 12:09:02,359 [main] com.w2a.base.TestBase  - firefox launched 
+INFO    2019-09-07 12:09:06,672 [main] com.w2a.base.TestBase  - Navigated to: http://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2019-09-07 12:09:24,638 [main] com.w2a.base.TestBase  - Test execution completed !!!
