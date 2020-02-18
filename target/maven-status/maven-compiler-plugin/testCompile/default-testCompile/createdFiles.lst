@@ -1,8 +1,9 @@
-com/w2a/testcases/loginTest.class
-com/w2a/utilities/TestUtil.class
-com/w2a/utilities/ExtentManager.class
-com/w2a/Listeners/CustomListeners.class
-com/w2a/base/TestBase.class
-com/w2a/rough/TestProperties.class
-com/w2a/testcases/openAccount.class
-com/w2a/utilities/ExcelReader.class
+com/bridgelabz/testcases/AddCustomer.class
+com/bridgelabz/utilities/ExtentManager.class
+com/bridgelabz/base/TestBase.class
+com/bridgelabz/utilities/TestUtil.class
+com/bridgelabz/testcases/openAccount.class
+com/bridgelabz/rough/TestProperties.class
+com/bridgelabz/utilities/ExcelReader.class
+com/bridgelabz/testcases/loginTest.class
+com/bridgelabz/Listeners/CustomListeners.class

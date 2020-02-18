@@ -4,10 +4,10 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="9.736">
+           time="5.520">
   <properties />
   
   
-            <testcase name="loginTest" time="9.736" classname="com.w2a.testcases.loginTest" />
+            <testcase name="loginTest" time="5.520" classname="com.bridgelabz.testcases.loginTest" />
       
 </testsuite>

@@ -1,0 +1,5 @@
+INFO    2020-02-18 14:48:15,654 [main] com.bridgelabz.base.TestBase  - config file loaded!!
+INFO    2020-02-18 14:48:15,678 [main] com.bridgelabz.base.TestBase  - OR file loaded!!
+INFO    2020-02-18 14:48:53,267 [main] com.bridgelabz.base.TestBase  - firefox launched 
+INFO    2020-02-18 14:49:00,283 [main] com.bridgelabz.base.TestBase  - Navigated to: http://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2020-02-18 14:49:23,815 [main] com.bridgelabz.base.TestBase  - Test execution completed !!!

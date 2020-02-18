@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="9.216">
+  <properties />
+  
+  
+            <testcase name="AddCustomer" time="3.998" classname="com.bridgelabz.testcases.AddCustomer" />
+                <testcase name="AddCustomer" time="2.807" classname="com.bridgelabz.testcases.AddCustomer" />
+                <testcase name="AddCustomer" time="2.411" classname="com.bridgelabz.testcases.AddCustomer" />
+      
+</testsuite>

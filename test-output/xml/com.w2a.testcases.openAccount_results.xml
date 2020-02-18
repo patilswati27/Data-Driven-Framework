@@ -4,11 +4,11 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="1.695">
+           time="1.564">
   <properties />
   
   
-            <testcase name="openAccount" time="0.757" classname="com.w2a.testcases.openAccount" />
-                <testcase name="openAccount" time="0.938" classname="com.w2a.testcases.openAccount" />
+            <testcase name="openAccount" time="0.744" classname="com.bridgelabz.testcases.openAccount" />
+                <testcase name="openAccount" time="0.820" classname="com.bridgelabz.testcases.openAccount" />
       
 </testsuite>

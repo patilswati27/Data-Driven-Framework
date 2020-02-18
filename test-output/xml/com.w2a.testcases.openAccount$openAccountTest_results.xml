@@ -6,15 +6,15 @@
            skipped="0"
            time="0.354">
   <properties />
-            <testcase name="openAccountTest" time="0.284" classname="com.w2a.testcases.openAccount$openAccountTest">
+            <testcase name="openAccountTest" time="0.284" classname="com.bridgelabz.testcases.openAccount$openAccountTest">
                 <failure type="java.lang.NullPointerException"
                   message="(null)"
               >
 <![CDATA[java.lang.NullPointerException
   org.openqa.selenium.support.ui.Quotes.escape(Quotes.java:42)
   org.openqa.selenium.support.ui.Select.selectByVisibleText(Select.java:113)
-  com.w2a.base.TestBase.select(TestBase.java:108)
-  com.w2a.testcases.openAccount$openAccountTest.openAccountTest(openAccount.java:18)
+  com.bridgelabz.base.TestBase.select(TestBase.java:108)
+  com.bridgelabz.testcases.openAccount$openAccountTest.openAccountTest(openAccount.java:18)
   sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
   sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
   sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -44,15 +44,15 @@
       </failure>
 
           </testcase>
-            <testcase name="openAccountTest" time="0.070" classname="com.w2a.testcases.openAccount$openAccountTest">
+            <testcase name="openAccountTest" time="0.070" classname="com.bridgelabz.testcases.openAccount$openAccountTest">
                 <failure type="java.lang.NullPointerException"
                   message="(null)"
               >
 <![CDATA[java.lang.NullPointerException
   org.openqa.selenium.support.ui.Quotes.escape(Quotes.java:42)
   org.openqa.selenium.support.ui.Select.selectByVisibleText(Select.java:113)
-  com.w2a.base.TestBase.select(TestBase.java:108)
-  com.w2a.testcases.openAccount$openAccountTest.openAccountTest(openAccount.java:18)
+  com.bridgelabz.base.TestBase.select(TestBase.java:108)
+  com.bridgelabz.testcases.openAccount$openAccountTest.openAccountTest(openAccount.java:18)
   sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
   sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
   sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)

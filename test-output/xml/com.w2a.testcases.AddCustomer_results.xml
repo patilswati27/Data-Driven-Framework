@@ -3,15 +3,13 @@
            tests="3"
            failures="0"
            errors="0"
-           skipped="1"
-           time="12.218">
+           skipped="0"
+           time="7.185">
   <properties />
   
-            <testcase name="AddCustomer" time="0.0" classname="com.w2a.testcases.AddCustomer">
-          <skipped />
-    </testcase>
   
-            <testcase name="AddCustomer" time="2.432" classname="com.w2a.testcases.AddCustomer" />
-                <testcase name="AddCustomer" time="9.784" classname="com.w2a.testcases.AddCustomer" />
+            <testcase name="AddCustomer" time="2.403" classname="com.bridgelabz.testcases.AddCustomer" />
+                <testcase name="AddCustomer" time="2.355" classname="com.bridgelabz.testcases.AddCustomer" />
+                <testcase name="AddCustomer" time="2.427" classname="com.bridgelabz.testcases.AddCustomer" />
       
 </testsuite>
