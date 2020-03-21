@@ -159,7 +159,6 @@
 					<reuseForks>true</reuseForks>
 					<useManifestOnlyJar>false</useManifestOnlyJar>
 					<includes>
-
 					</includes>
 					<suiteXmlFiles>
 						<suiteXmlFile>src/test/resources/properties/runner/testng.xml</suiteXmlFile>

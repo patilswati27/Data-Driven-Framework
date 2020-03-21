@@ -1,3 +1,0 @@
-INFO    2019-06-30 10:45:10,879 [main] com.bridgelabz.base.TestBase  - config file loaded!!
-INFO    2019-06-30 10:45:10,880 [main] com.bridgelabz.base.TestBase  - OR file loaded!!
-INFO    2019-06-30 10:45:23,486 [main] com.bridgelabz.base.TestBase  - firefox launched 

@@ -22,7 +22,7 @@ public class loginTest extends TestBase {
 		FileInputStream fi = new FileInputStream(
 				System.getProperty("user.dir") + "//src/test//resources//properties//properties//OR.properties");
 		OR.load(fi);
-		driver.findElement(By.cssSelector(OR.getProperty("bmlBtn_CSS"))).click();
+		driver.findElement(By.xpath(OR.getProperty("bmlBtn_CSS"))).click();
 		WebElement we = driver.findElement(By.xpath(OR.getProperty("addCustBtn_Xpath")));
 		Assert.assertTrue(we.isDisplayed(), "Login not successful");// for validation to check whether element is
 																	// present or not

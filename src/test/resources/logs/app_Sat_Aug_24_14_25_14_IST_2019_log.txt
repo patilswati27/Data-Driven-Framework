@@ -1,4 +1,0 @@
-INFO    2019-08-24 14:25:14,407 [main] com.bridgelabz.base.TestBase  - OR file loaded!!
-INFO    2019-08-24 14:25:15,917 [main] com.bridgelabz.base.TestBase  - chrome launched
-INFO    2019-08-24 14:25:18,843 [main] com.bridgelabz.base.TestBase  - Navigated to: http://www.way2automation.com/angularjs-protractor/banking/#/login
-INFO    2019-08-24 14:25:31,309 [main] com.bridgelabz.base.TestBase  - Test execution completed !!!

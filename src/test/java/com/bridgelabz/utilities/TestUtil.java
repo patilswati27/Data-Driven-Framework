@@ -25,9 +25,8 @@ public class TestUtil extends TestBase {
 		   Date d = new Date();
 		   screenshotName = d.toString().replace(":","_").replace(" ","_")+".jpg";
 		   FileUtils.copyFile(scrFile,
-		   new File(System.getProperty("user.dir")+"/target/surefire-reports/html/"+screenshotName+""));
-		       
-	}
+				   new File(System.getProperty("user.dir")+"/target/surefire-reports/html/"+screenshotName+""));
+				     	}
 
 	@DataProvider(name="dp")
 	public Object[][] getData(Method m) {
